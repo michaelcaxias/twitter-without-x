@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Twitter Without X",
-  "description": "Base Level Extension",
+  "description": "The classic Twitter without the X brand",
   "icons": {
     "16": "./assets/icon.png",
     "48": "./assets/icon.png",
