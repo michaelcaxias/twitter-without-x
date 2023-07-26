@@ -1,7 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "Twitter Before X",
+  "name": "Twitter Without X",
   "description": "Base Level Extension",
+  "icons": {
+    "16": "./assets/icon.png",
+    "48": "./assets/icon.png",
+    "128": "./assets/icon.png"
+  },
   "version": "1.0",
   "action": {
     "default_icon": "./assets/icon.png"
